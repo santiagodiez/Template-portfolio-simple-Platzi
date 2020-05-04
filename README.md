@@ -1,2 +1,2 @@
 # desarrollo-web-portafolio
-Proyecto realizado 
+Divelopmented in html and css
