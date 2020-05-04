@@ -1,2 +1,2 @@
 # desarrollo-web-portafolio
-Divelopmented in html and css
+Developed in html and css
